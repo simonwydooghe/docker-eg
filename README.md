@@ -10,7 +10,7 @@ Upstream project website: https://github.com/srsudar/eg
 docker run --rm -it simonwydooghe/eg
 ```
 
-You can alias this so you can simply use "eg" at the command line:
+You can alias this so you can simply use `eg` at the command line:
 ```
 alias eg="docker run --rm -it simonwydooghe/eg"
 ```

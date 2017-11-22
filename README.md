@@ -7,10 +7,10 @@ Upstream project website: https://github.com/srsudar/eg
 # Usage
 
 ```
-docker run --rm -it simonwydooghe/eg
+docker run --rm -it siwyd/eg
 ```
 
 You can alias this so you can simply use `eg` at the command line:
 ```
-alias eg="docker run --rm -it simonwydooghe/eg"
+alias eg="docker run --rm -it siwyd/eg"
 ```
